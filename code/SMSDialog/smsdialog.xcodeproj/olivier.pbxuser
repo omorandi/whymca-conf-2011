@@ -1,0 +1,259 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* smsdialog */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* smsdialog */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 099CCED01385526B00CC9C6E /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327580462;
+			PBXWorkspaceStateSaveDate = 327580462;
+		};
+		perUserProjectItems = {
+			099CCEE313855ADE00CC9C6E = 099CCEE313855ADE00CC9C6E /* PBXBookmark */;
+			099CCEEE1386635900CC9C6E = 099CCEEE1386635900CC9C6E /* PBXTextBookmark */;
+			099CCEF01386635900CC9C6E = 099CCEF01386635900CC9C6E /* PBXTextBookmark */;
+			099CCEF21386635900CC9C6E = 099CCEF21386635900CC9C6E /* PBXTextBookmark */;
+			099CCEF41386635900CC9C6E = 099CCEF41386635900CC9C6E /* PBXTextBookmark */;
+			099CCEF51386635900CC9C6E = 099CCEF51386635900CC9C6E /* PBXTextBookmark */;
+			099CCEF61386635900CC9C6E = 099CCEF61386635900CC9C6E /* PBXTextBookmark */;
+			099CCEF91386635900CC9C6E = 099CCEF91386635900CC9C6E /* PBXTextBookmark */;
+			09BBB84213867B3500186CE3 /* PBXTextBookmark */ = 09BBB84213867B3500186CE3 /* PBXTextBookmark */;
+			09BBB84513867B3500186CE3 /* PBXTextBookmark */ = 09BBB84513867B3500186CE3 /* PBXTextBookmark */;
+			09BBB87613867B8F00186CE3 /* PBXTextBookmark */ = 09BBB87613867B8F00186CE3 /* PBXTextBookmark */;
+			09BBB87713867B8F00186CE3 /* PBXTextBookmark */ = 09BBB87713867B8F00186CE3 /* PBXTextBookmark */;
+			09BBB88213867F9200186CE3 /* PBXTextBookmark */ = 09BBB88213867F9200186CE3 /* PBXTextBookmark */;
+			09BBB88313867F9200186CE3 /* PBXTextBookmark */ = 09BBB88313867F9200186CE3 /* PBXTextBookmark */;
+			09BBB88413867F9200186CE3 /* PBXTextBookmark */ = 09BBB88413867F9200186CE3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 099CCECF1385526B00CC9C6E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	099CCECB1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 871}}";
+			sepNavSelRange = "{759, 0}";
+			sepNavVisRange = "{317, 764}";
+		};
+	};
+	099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 2665}}";
+			sepNavSelRange = "{4325, 0}";
+			sepNavVisRange = "{1426, 1468}";
+			sepNavWindowFrame = "{{15, 175}, {1425, 698}}";
+		};
+	};
+	099CCECF1385526B00CC9C6E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	099CCED01385526B00CC9C6E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	099CCEE313855ADE00CC9C6E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+	};
+	099CCEEE1386635900CC9C6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCEEF1386635900CC9C6E /* TiProxy.h */;
+		name = "TiProxy.h: 95";
+		rLen = 13;
+		rLoc = 3150;
+		rType = 0;
+		vrLen = 1470;
+		vrLoc = 2634;
+	};
+	099CCEEF1386635900CC9C6E /* TiProxy.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = TiProxy.h;
+		path = "/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/TiProxy.h";
+		sourceTree = "<absolute>";
+	};
+	099CCEF01386635900CC9C6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCEF11386635900CC9C6E /* KrollCallback.h */;
+		name = "KrollCallback.h: 17";
+		rLen = 38;
+		rLoc = 620;
+		rType = 0;
+		vrLen = 1126;
+		vrLoc = 0;
+	};
+	099CCEF11386635900CC9C6E /* KrollCallback.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = KrollCallback.h;
+		path = "/Library/Application Support/Titanium/mobilesdk/osx/1.7.0/iphone/include/KrollCallback.h";
+		sourceTree = "<absolute>";
+	};
+	099CCEF21386635900CC9C6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCEF31386635900CC9C6E /* UILabel.h */;
+		name = "UILabel.h: 21";
+		rLen = 23;
+		rLoc = 401;
+		rType = 0;
+		vrLen = 1061;
+		vrLoc = 0;
+	};
+	099CCEF31386635900CC9C6E /* UILabel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UILabel.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UILabel.h;
+		sourceTree = "<absolute>";
+	};
+	099CCEF41386635900CC9C6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECB1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.h */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.h: 34";
+		rLen = 0;
+		rLoc = 759;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 370;
+	};
+	099CCEF51386635900CC9C6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 109";
+		rLen = 0;
+		rLoc = 2645;
+		rType = 0;
+		vrLen = 1311;
+		vrLoc = 3657;
+	};
+	099CCEF61386635900CC9C6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 154";
+		rLen = 274;
+		rLoc = 4052;
+		rType = 0;
+		vrLen = 1350;
+		vrLoc = 3580;
+	};
+	099CCEF91386635900CC9C6E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 103";
+		rLen = 0;
+		rLoc = 2585;
+		rType = 0;
+		vrLen = 1607;
+		vrLoc = 1427;
+	};
+	09BBB84213867B3500186CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 162";
+		rLen = 0;
+		rLoc = 4325;
+		rType = 0;
+		vrLen = 1450;
+		vrLoc = 3562;
+	};
+	09BBB84513867B3500186CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 103";
+		rLen = 0;
+		rLoc = 2585;
+		rType = 0;
+		vrLen = 1606;
+		vrLoc = 1428;
+	};
+	09BBB87613867B8F00186CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 162";
+		rLen = 0;
+		rLoc = 4325;
+		rType = 0;
+		vrLen = 1490;
+		vrLoc = 1100;
+	};
+	09BBB87713867B8F00186CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 162";
+		rLen = 0;
+		rLoc = 4325;
+		rType = 0;
+		vrLen = 1490;
+		vrLoc = 1100;
+	};
+	09BBB88213867F9200186CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECB1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.h */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.h: 34";
+		rLen = 0;
+		rLoc = 759;
+		rType = 0;
+		vrLen = 764;
+		vrLoc = 317;
+	};
+	09BBB88313867F9200186CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 162";
+		rLen = 0;
+		rLoc = 4325;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 0;
+	};
+	09BBB88413867F9200186CE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 099CCECC1385526A00CC9C6E /* ComWhymcaSmsdialogSMSDialogProxy.m */;
+		name = "ComWhymcaSmsdialogSMSDialogProxy.m: 162";
+		rLen = 0;
+		rLoc = 4325;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 1426;
+	};
+	24416B8111C4CA220047AFDD /* Build & Test */ = {
+		activeExec = 0;
+	};
+	D2AAC07D0554694100DB518D /* smsdialog */ = {
+		activeExec = 0;
+	};
+}

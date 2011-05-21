@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2010 by Your Company
+
+
+# these should not be edited
+name: smsdialog
+moduleid: com.whymca.smsdialog
+guid: 33f80131-4d0c-4cfd-b782-245a5602dac3
+platform: iphone
+minsdk: 1.7.0
