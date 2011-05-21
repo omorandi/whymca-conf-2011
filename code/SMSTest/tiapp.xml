@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <deployment-targets>
+        <target device="iphone">true</target>
+        <target device="ipad">false</target>
+        <target device="android">false</target>
+    </deployment-targets>
+<id>com.omorandi.smsmodtest</id>
+<name>SMSModuleTest</name>
+<version>1.0</version>
+<publisher>olivier</publisher>
+<url/>
+<description>No description provided</description>
+<copyright>2010 by olivier</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>false</analytics>
+<guid>5c04220d-f16b-4e6c-826c-54f8c2b84e29</guid>
+    <modules>
+        <module version="0.1">com.whymca.smsdialog</module> 
+    </modules>
+</ti:app>
